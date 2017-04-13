@@ -1,0 +1,16 @@
+Máquina de busca como Google
+Construção indice invertido para máquinas de busca
+pares <qntd,ID> qntd(qntd de x q a palavra aparece)  ID(ID do documento sendo lido)
+Quem(1,1) Casa(4,1) Quem(2,1)
+Lista encadeada facilita porque os numeros de doc por palavra é variavel
+Receber N arquivos como entrada (2 textos para 500 palavras de exemplo)
+Quando a mais do que um termo de busca? Qual a prioridade?
+
+Patricia armazena recorrencia de palavras
+Trie auto-preenchimento
+
+Buscar Na arvore
+exibir termos
+imprimir indice invertido
+
+GTK
